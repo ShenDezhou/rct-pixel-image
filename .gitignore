@@ -1,0 +1,5 @@
+build/
+dist/
+examples/
+pyxelate.egg-info/
+sample/
